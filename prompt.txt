@@ -1,0 +1,9 @@
+here is a job listing: %s
+
+here is me: Bjorn Pagen New York, United States https://github.com/bjornpagen
+
+task: create a short and compelling 2 short paragraph (hard rule: only 2 sentences per paragraph) cover letter for my job application. goal is to stand out and to get the job: optimize my chances. make sure outside of this requirement, there is an intro line that says "Dear Recruiting Manager", and an outro line that says "Sincerely,\nBjorn Pagen", verbatim.
+
+the reason i'm using AI to write this is you can have a powerful understanding of the underlying company, it's culture, it's goals, and whatnot. i need you to generate text that shows i am highly motivated and that this is, quite literally, my dream job. show me in the best of light, and explain what i can do for this company. talk as much about the COMPANY as possible, and why i wish to be a part of it. gain the recruiters heart.
+
+do not discuss my work experience AT ALL, because as an ai, you will end up lying about it. please stay rather vague and only talk about what i value in the company, but with a very strong and compelling writing style.
