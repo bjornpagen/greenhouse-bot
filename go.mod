@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/JeremyLoy/config v1.5.0
 	github.com/JohannesKaufmann/html-to-markdown v1.4.0
-	github.com/bjornpagen/goplay v0.0.0-20230601015055-77541510cea9
+	github.com/bjornpagen/goplay v0.0.0-20230601083436-f2b1ee2d3c82
 	github.com/davecgh/go-spew v1.1.1
 	github.com/sashabaranov/go-openai v1.9.5
 )

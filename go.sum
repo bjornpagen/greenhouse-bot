@@ -8,6 +8,8 @@ github.com/andybalholm/cascadia v1.3.1 h1:nhxRkql1kdYCc8Snf7D5/D3spOX+dBgjA6u8x0
 github.com/andybalholm/cascadia v1.3.1/go.mod h1:R4bJ1UQfqADjvDa4P6HZHLh/3OxWWEqc0Sk8XGwHqvA=
 github.com/bjornpagen/goplay v0.0.0-20230601015055-77541510cea9 h1:05ZzKwAUwmtrlfzJdA44PVjxd/6yNPwBgmKFAicnFRs=
 github.com/bjornpagen/goplay v0.0.0-20230601015055-77541510cea9/go.mod h1:FchrJ/joBg7pZZyLhmIbLoRWTVc4zh0mG10ONQK4ya4=
+github.com/bjornpagen/goplay v0.0.0-20230601083436-f2b1ee2d3c82 h1:QSpDs7k0zeKCSmHmm2rgeFkgHz+pi6C3/cMoAppdfpY=
+github.com/bjornpagen/goplay v0.0.0-20230601083436-f2b1ee2d3c82/go.mod h1:FchrJ/joBg7pZZyLhmIbLoRWTVc4zh0mG10ONQK4ya4=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
